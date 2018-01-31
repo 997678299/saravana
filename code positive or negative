@@ -3,9 +3,9 @@
 int main()
 {
 if(a>0)
-printf("this is positive no")
+printf("this is positive no");
 else
-printf("this is negative no")
+printf("this is negative no");
 getch();
 retur 0;
 }
