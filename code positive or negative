@@ -7,5 +7,5 @@ printf("this is positive no");
 else
 printf("this is negative no");
 getch();
-retur 0;
+return 0;
 }
