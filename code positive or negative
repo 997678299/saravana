@@ -1,0 +1,11 @@
+#include<stdio.h>
+#include<conio.h>
+int main()
+{
+if(a>0)
+printf("this is positive no")
+else
+printf("this is negative no")
+getch();
+retur 0;
+}
