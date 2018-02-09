@@ -9,5 +9,5 @@ int i,n;
   {
     printf("hello ");
   }
-getch();
-}
+getch() ;
+return0 ;
