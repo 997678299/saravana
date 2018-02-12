@@ -1,4 +1,5 @@
 #include<stdio.h>
+#include<conio.h>
 int main()
 {
 int up,low,i,k=0;
@@ -8,7 +9,6 @@ printf("enter the upper limit  ");
 scanf("%d",&up);
 if(i%2==0);
 printf("\n %d",i);
-}
 getch() ;
 return 0;
 }
