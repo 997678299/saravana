@@ -13,3 +13,4 @@ printf("\n %d",i);
 }
 getch() ;
 return 0;
+}
