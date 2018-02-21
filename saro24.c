@@ -15,4 +15,5 @@ temp=temp/10;
 }
 printf("%d",sum);
 return 0;
+getch() ;  
 }
