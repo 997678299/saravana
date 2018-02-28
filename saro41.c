@@ -1,6 +1,7 @@
-#include <stdio.h>
-#include<string.h>
-void main() {
+#include<stdio.h>
+#include<conio.h>
+void main()
+{
 char a[100];
 int i=1,n;
 printf("Enter the string:\t");
