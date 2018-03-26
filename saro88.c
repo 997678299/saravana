@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+#include<conio.h>
 int main(void) 
 {
 int x,y,remainder,lcm,gcd,a,b;
@@ -21,4 +21,5 @@ gcd=y;
 lcm=(a*b)/gcd;
 printf("\n the lcm of the given number is: %d",lcm);
 return 0;
+  getch();
 }
